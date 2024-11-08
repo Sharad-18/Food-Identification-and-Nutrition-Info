@@ -2,7 +2,7 @@
 
 This project is a **calorie calculator** that identifies food items in images and provides detailed nutritional information about them. It uses a pre-trained Vision Transformer model to recognize food items and the API Ninjas Nutrition API to retrieve calorie and nutrition information.
 
-![App Screenshot](data/data/sample.jpeg)
+![App Screenshot](data/sample.jpeg)
 
 ## Features
 - **Identify food items** in an uploaded image.
